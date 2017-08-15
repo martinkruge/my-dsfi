@@ -1,3 +1,6 @@
 1st line added on 15 August 2017 21:55
+<<<<<<< HEAD
 2nd line added on 15 August 2017 22:15
 3rd line added on 15 August 2017 22:19
+=======
+>>>>>>> parent of 34a7f9e... Second line added
